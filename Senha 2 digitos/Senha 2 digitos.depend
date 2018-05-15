@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526384480 source:c:\devc\senha 2 digitos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
